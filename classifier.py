@@ -104,6 +104,7 @@ def result():
         return render_template("result.html", result=Markup(result), filepath=filepath)
     else:
         return redirect(url_for("index"))
+    
 
 
 if __name__ == "__main__":
