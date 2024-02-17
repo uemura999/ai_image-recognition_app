@@ -4,5 +4,5 @@ Werkzeug==2.3.8
 gunicorn==20.1.0
 numpy==1.24.3
 Pillow==10.2.0
-torch-2.2.0+cpu.cxx11.abi-cp311-cp311-linux_x86_64.whl
+http://download.pytorch.org/whl/cpu/torch-2.2.0+cpu.cxx11.abi-cp311-cp311-linux_x86_64.whl
 torchvision==0.15.2
